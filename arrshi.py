@@ -1,6 +1,6 @@
 k=int(input())
-a=input()
 b=int(input())
+a=input()
 c=int(len(a))
 for i in range(0,b):
   d[i]=a[i]
