@@ -1,3 +1,4 @@
+k=int(input())
 a=input()
 b=int(input())
 c=int(len(a))
